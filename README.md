@@ -5,7 +5,7 @@ Veil Framework ile Ngrok Çalıştırarak Trojen Oluşturup Çalıştırmak
 Veil Framework Yükleme Referansı: https://github.com/Veil-Framework/Veil
 
 
-- Ngrok.com adresine giderek üye oldum.
+- [Ngrok.com](https://ngrok.com/) adresine giderek üye oldum.
 - Site üzerinden “Download for Linux” diyerek sanal Kali makinama ngrok’u indirdim
 - 2. Kısımda yazan authentication token’ımı kayderek siteden çıkış yapıyorum.
 ![ngrok site](https://user-images.githubusercontent.com/67163428/191236942-63485be5-51da-4a83-bdb2-b8a87b25e0c2.png)
